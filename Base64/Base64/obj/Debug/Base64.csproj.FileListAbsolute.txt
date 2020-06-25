@@ -18,3 +18,13 @@ C:\Users\SamL\Documents\Programming\Base64\Base64\obj\Debug\Base64.csproj.Genera
 C:\Users\SamL\Documents\Programming\Base64\Base64\obj\Debug\Base64.csproj.CoreCompileInputs.cache
 C:\Users\SamL\Documents\Programming\Base64\Base64\obj\Debug\Base64.exe
 C:\Users\SamL\Documents\Programming\Base64\Base64\obj\Debug\Base64.pdb
+G:\Documents\Programming\Base64\Base64\bin\Debug\Base64.exe.config
+G:\Documents\Programming\Base64\Base64\bin\Debug\Base64.exe
+G:\Documents\Programming\Base64\Base64\bin\Debug\Base64.pdb
+G:\Documents\Programming\Base64\Base64\obj\Debug\Base64.csprojAssemblyReference.cache
+G:\Documents\Programming\Base64\Base64\obj\Debug\Base64.frmBase64.resources
+G:\Documents\Programming\Base64\Base64\obj\Debug\Base64.Properties.Resources.resources
+G:\Documents\Programming\Base64\Base64\obj\Debug\Base64.csproj.GenerateResource.cache
+G:\Documents\Programming\Base64\Base64\obj\Debug\Base64.csproj.CoreCompileInputs.cache
+G:\Documents\Programming\Base64\Base64\obj\Debug\Base64.exe
+G:\Documents\Programming\Base64\Base64\obj\Debug\Base64.pdb
